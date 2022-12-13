@@ -3,7 +3,7 @@ package m
 import "fmt"
 
 func Fun() {
-	fmt.Println("hello next next v1.0.0")
+	fmt.Println("hello post 0.1.1")
 
 }
 
