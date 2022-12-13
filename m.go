@@ -3,7 +3,7 @@ package m
 import (
 	"fmt"
 
-	"github.com/chetanshivaji/md"
+	"github.com/chetanshivaji/m/md"
 	"github.com/chetanshivaji/n"
 )
 
